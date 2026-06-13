@@ -3,7 +3,7 @@
 > Personal portfolio website of **Hardika Raut** — Full Stack Developer & MCA student from Pune, Maharashtra.  
 > Built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no build step — just open and deploy.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://https://portfoliohardikaraut.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfoliohardikaraut.vercel.app)
 [![Made With](https://img.shields.io/badge/Made%20With-HTML%20%7C%20CSS%20%7C%20JS-C4B5FD?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-34D399?style=for-the-badge)](#license)
 
